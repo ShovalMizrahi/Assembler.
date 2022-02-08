@@ -1,1 +1,1 @@
-# An assembler for a low level languaage 
+# An assembler which recieves as input assembly files and outputs machine code files
